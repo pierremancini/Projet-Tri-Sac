@@ -1,0 +1,26 @@
+http://data.nantes.fr/donnees/detail/repertoire-des-voies-de-nantes-metropole-par-commune/
+
+Répertoire des voies de Nantes Métropole par commune
+
+Dates et lieux de retrait des sacs TRI'SAC des rendez-vous de quartier de Nantes
+
+OpenStreetView
+
+
+Formule distance entre deux points dont on a les coordonnées longitude-latitude:
+
+R*cos-1(sin(a)*sin(b)+cos(a)cos(b)cos(c-d))
+
+(utiliser des valeurs en radian dans les fonction cos sin, 
+Angle en radian = pi * (angle en degré) / 180)
+
+R= 6378000 m Rayon de la Terre
+
+a= latitudeA
+b= latitudeB
+c= longitudeC
+d= longitudeD
+
+
+Test modification fichier
+
