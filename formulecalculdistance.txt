@@ -18,8 +18,8 @@ R= 6378000 m Rayon de la Terre
 
 a= latitudeA
 b= latitudeB
-c= longitudeC
-d= longitudeD
+c= longitudeA
+d= longitudeB
 
 
 Test modification fichier
