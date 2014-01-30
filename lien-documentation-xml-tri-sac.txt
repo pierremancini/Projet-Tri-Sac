@@ -1,0 +1,4 @@
+http://wiki.openstreetmap.org/wiki/Nominatim#Reverse_Geocoding_.2F_Address_lookup
+
+
+http://www.developer.com/services/article.php/3814971/Charting-Your-Course-Using-the-Google-Maps-API.htm
